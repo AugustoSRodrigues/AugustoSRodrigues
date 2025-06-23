@@ -26,15 +26,18 @@
 
 ## 🛠️ Tecnologias | Technologies
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/60/000000/power-bi.png" alt="Power BI"/>
+</p>
 
 ---
 
@@ -43,11 +46,11 @@
 > *(Em breve — links serão adicionados aqui)*  
 > **Exemplos sugeridos para você desenvolver e destacar:**
 >
-> - 📌 Previsão de séries temporais com LSTM
-> - 📌 Classificador de imagens com CNN (YOLO ou PyTorch)
-> - 📌 Dashboard interativo de análise de dados com Pandas + Power BI
-> - 📌 Detecção de anomalias com clustering (DBSCAN, K-Means)
-> - 📌 Otimização com algoritmos genéticos (computação evolutiva)
+> - 📌 Previsão de séries temporais com LSTM  
+> - 📌 Classificador de imagens com CNN (YOLO ou PyTorch)  
+> - 📌 Dashboard interativo de análise de dados com Pandas + Power BI  
+> - 📌 Detecção de anomalias com clustering (DBSCAN, K-Means)  
+> - 📌 Otimização com algoritmos genéticos (computação evolutiva)  
 
 ---
 
@@ -58,14 +61,6 @@
 > - “Como usar YOLO para detecção de objetos em tempo real”  
 > - “Introdução prática à Engenharia de Prompts com exemplos reais”  
 > - “Segmentação de imagens com morfologia matemática”
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AugustoSRodrigues&show_icons=true&theme=radical" alt="Augusto GitHub Stats" />
-</p>
 
 ---
 
