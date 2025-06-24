@@ -19,9 +19,10 @@
 
 Meu nome é Augusto Sacramento Rodrigues e sou formado em Ciência da Computação pela Unicamp, onde tive a oportunidade de explorar diferentes áreas da computação, com foco especial em Inteligência Artificial, Visão Computacional, Machine Learning e Ciência de Dados. Durante a graduação, aprofundei meus conhecimentos em algoritmos, análise de dados, redes neurais, processamento de imagens e aprendizado estatístico, complementando a formação com cursos extracurriculares voltados à prática e aplicações reais.
 
-Atuei como estagiário na ZIONS Robotics & Technologies, onde desenvolvi soluções de IA aplicadas à visão computacional, como sistemas de busca forense e reconhecimento automático de placas veiculares (LPR). Também trabalhei na otimização de redes neurais e no desenvolvimento de pipelines de dados com técnicas de MLOps. Com experiência em ferramentas como Docker, SQL, Python e Power BI, colaborei em projetos que envolviam desde a coleta e o tratamento de dados até a geração de insights e entrega de modelos treinados em ambientes produtivos.
+Durante minha experiência como estagiário, desenvolvi soluções de IA aplicadas à visão computacional, como sistemas de busca forense e reconhecimento automático de placas veiculares (LPR). Também trabalhei na otimização de redes neurais e no desenvolvimento de pipelines de dados com técnicas de MLOps. Com experiência em ferramentas como Docker, SQL, Python e Power BI, colaborei em projetos que envolviam desde a coleta e o tratamento de dados até a geração de insights e entrega de modelos treinados em ambientes produtivos.
 
 Sou movido por desafios, aprendizado contínuo e colaboração em equipe. Busco seguir evoluindo profissionalmente nas áreas de IA, ciência de dados e visão computacional, contribuindo com soluções tecnológicas que causem impacto positivo e inovação.
+
 
 ---
 
