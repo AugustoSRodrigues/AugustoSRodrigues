@@ -45,26 +45,47 @@ Sou movido por desafios, aprendizado contínuo e colaboração em equipe. Busco 
 
 ## 📂 Projetos | Projects
 
-> *(Em breve — links serão adicionados aqui)*  
-> **Exemplos sugeridos para você desenvolver e destacar:**
->
-> - 📌 Previsão de séries temporais com LSTM  
-> - 📌 Classificador de imagens com CNN (YOLO ou PyTorch)  
-> - 📌 Dashboard interativo de análise de dados com Pandas + Power BI  
-> - 📌 Detecção de anomalias com clustering (DBSCAN, K-Means)  
-> - 📌 Otimização com algoritmos genéticos (computação evolutiva)  
+> Aqui estão alguns dos projetos que desenvolvi. Clique no nome para acessar o repositório completo, leia um resumo rápido e veja uma imagem da aplicação funcionando.
 
 ---
 
-## 📝 Publicações | Articles
+### [📌 Nome do Projeto 1](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_1)  
+<!-- Substitua o link acima pelo URL do repositório real -->
 
-> *(Em breve — artigos sobre IA, visão computacional, engenharia de prompts etc.)*  
-> Ex:  
-> - “Como usar YOLO para detecção de objetos em tempo real”  
-> - “Introdução prática à Engenharia de Prompts com exemplos reais”  
-> - “Segmentação de imagens com morfologia matemática”
+Resumo: Breve descrição do projeto. Explique o problema que resolveu, a tecnologia usada e o resultado obtido.  
+Exemplo: Classificador de imagens usando YOLOv5 para detectar objetos em tempo real com webcam.
+
+<p align="center">
+  <img src="CAMINHO/IMAGEM_PROJETO_1.png" alt="Projeto 1 rodando" width="600"/>
+  <!-- Substitua o caminho da imagem pelo link ou caminho local do print do projeto -->
+</p>
 
 ---
+
+### [📌 Nome do Projeto 2](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_2)  
+Resumo: Descrição curta do projeto 2.  
+Exemplo: Dashboard interativo para análise de dados de vendas usando Python, Pandas e Power BI.
+
+<p align="center">
+  <img src="CAMINHO/IMAGEM_PROJETO_2.png" alt="Projeto 2 rodando" width="600"/>
+</p>
+
+---
+
+### [📌 Nome do Projeto 3](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_3)  
+Resumo: Descrição curta do projeto 3.  
+Exemplo: Previsão de séries temporais com LSTM para dados meteorológicos.
+
+<p align="center">
+  <img src="CAMINHO/IMAGEM_PROJETO_3.png" alt="Projeto 3 rodando" width="600"/>
+</p>
+
+---
+
+
+---
+
+
 
 ## 📚 Formação Complementar | Additional Education
 
