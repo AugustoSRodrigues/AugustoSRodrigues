@@ -23,6 +23,7 @@ Atuei como estagiário na ZIONS Robotics & Technologies, onde desenvolvi soluç�
 
 Sou movido por desafios, aprendizado contínuo e colaboração em equipe. Busco seguir evoluindo profissionalmente nas áreas de IA, ciência de dados e visão computacional, contribuindo com soluções tecnológicas que causem impacto positivo e inovação.
 
+---
 
 ## 🛠️ Tecnologias | Technologies
 
