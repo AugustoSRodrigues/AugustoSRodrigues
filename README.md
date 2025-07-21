@@ -65,7 +65,7 @@ O projeto realiza a detecção automática do uso correto de Equipamentos de Pro
 EvoSnake é um agente autônomo para o jogo da cobrinha (Snake) que utiliza Sistemas Classificadores - uma abordagem de aprendizado que combina regras de decisão do tipo "SE-ENTÃO" com algoritmos genéticos. O agente evolui através de gerações, onde regras competem entre si, são recompensadas ou punidas baseadas em seu desempenho, e se reproduzem para criar comportamentos cada vez mais eficientes no jogo
 
 <p align="center">
-  <video src="midia/snake.mp4" width="600" autoplay loop muted playsinline></video>
+  <video src="midia/snake.webm" width="600" autoplay loop muted playsinline></video>
 </p>
 
 
