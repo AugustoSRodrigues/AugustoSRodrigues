@@ -14,6 +14,8 @@
 </p>
 
 ---
+[Ir para Cursos](#cursos)
+---
 
 ## 🚀 Sobre mim 
 
@@ -45,7 +47,7 @@ Sou movido por desafios, aprendizado contínuo e colaboração em equipe. Busco 
 
 ## 📂 Projetos
 
-> Aqui estão alguns dos projetos que desenvolvi. Clique no nome para acessar o repositório completo, leia um resumo rápido e veja uma imagem da aplicação funcionando.
+> Aqui estão alguns dos projetos que desenvolvi. Clique no nome para acessar o repositório completo.
 
 ---
 
@@ -74,13 +76,42 @@ EvoSnake é um agente autônomo para o jogo da cobrinha (Snake) que utiliza Sist
 
 
 
-## 📚 Formação Complementar | Additional Education
+## 📚 Cursos e Formações <a name="cursos"></a>
 
-- Formação Cientista de Dados – Deep Learning, Séries Temporais, Clustering  
-- Prompt Engineering Specialization – ChatGPT, Trustworthy AI, Advanced Data Analysis  
-- Redes Neurais, Computação Evolutiva, Processamento e Análise de Imagens  
-- IRIS Data Science – Comunidade estudantil de IA e Data Science  
-- Residência TIC IA – UNICAMP  
+- **Aprendizado de Máquina** (2021 - 60h)  
+  Técnicas de aprendizado de máquina estatístico para classificação, agrupamento e detecção de outliers.  
+
+- **Introdução ao Processamento de Imagem Digital** (2022 - 60h)  
+  Transformações geométricas e radiométricas, filtragem no domínio espacial e no domínio da frequência, técnicas de restauração e introdução à segmentação.  
+
+- **Applied Plotting, Charting & Data Representation in Python** (2023 - 25h)  
+  Visualização com foco em relatórios e gráficos usando a biblioteca matplotlib.  
+
+- **Residência TIC - IA (Unicamp)** (2023 - 40h)  
+  Formação em inteligência artificial online pelo Instituto de Computação da Unicamp.  
+
+- **Computação Evolutiva** (2023 - 60h)  
+  Algoritmos genéticos e extensões, estratégias evolutivas, programação evolutiva, programação genética, sistemas classificadores, otimização multiobjetivo e dinâmica.  
+
+- **Introduction to Data Science in Python** (2023 - 30h)  
+  Introdução à manipulação e limpeza de dados e abstração de Series e DataFrame.  
+
+- **Introdução à Inteligência Artificial** (2024 - 40h)  
+  Fundamentos e aplicações de Inteligência Artificial, histórico e princípios de IA.  
+
+- **Processamento e Análise de Imagens** (2024 - 60h)  
+  Segmentação de imagens, transformações morfológicas, representação, descrição, extração de características, classificação supervisionada e não supervisionada.  
+
+- **Redes Neurais** (2024 - 60h)  
+  Redes neurais artificiais, arquiteturas básicas, estratégias e algoritmos de aprendizado.  
+
+- **Formação Cientista de Dados: O Curso Completo** (2025 - 50h)  
+  Modelagem preditiva com Deep Learning, redes neurais, séries temporais, regressão e técnicas de agrupamento.  
+  Estatística inferencial, processamento de texto, análise de grafos, manipulação de dados com Python (NumPy, Pandas), SQL, MongoDB, Spark e AWS.  
+
+- **Prompt Engineering Specialization** (2025 - 50h)  
+  Prompt Engineering for ChatGPT, ChatGPT Advanced Data Analysis e Trustworthy Generative AI, com foco em criação de prompts, análise de dados e uso responsável da IA generativa.  
+ 
 
 ---
 
