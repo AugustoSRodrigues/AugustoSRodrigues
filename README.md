@@ -51,29 +51,29 @@ Sou movido por desafios, aprendizado contínuo e colaboração em equipe. Busco 
 
 ---
 
+
+
+### [🐍 EVoSnake](https://github.com/AugustoSRodrigues/EvoSnake)  
+EvoSnake é um agente autônomo para o jogo da cobrinha (Snake) que utiliza Sistemas Classificadores - uma abordagem de aprendizado que combina regras de decisão    tipo "SE-ENTÃO" com algoritmos genéticos. O agente evolui através de gerações, onde regras competem entre si, são recompensadas ou punidas baseadas em seu desempenho, e se reproduzem para criar comportamentos cada vez mais eficientes no jogo
+
+<p align="center">
+<img src="midia/evosnake/snake.gif" alt="EvoSnake Gameplay" width="290"/>
+</p>
+
+
+
+
+---
 ### [⛑️ EPI](https://github.com/AugustoSRodrigues/EPI-PPE)  
 
 O projeto realiza a detecção automática do uso correto de Equipamentos de Proteção Individual (EPI) em imagens e vídeos, utilizando modelos de deep learning. Ele identifica itens como capacete, colete, óculos, luvas e botas em ambientes industriais ou de construção.
 
 <p align="center">
-  <img src="midia/ppe_violacao.gif" alt="Projeto 1 GIF 1" width="290"/>
-  <img src="midia/ppe_certo.gif" alt="Projeto 1 GIF 2" width="290"/>
+  <img src="midia/ppe/ppe_violacao_light.gif" alt="Projeto 1 GIF 1" width="390" />
+  <img src="midia/ppe/ppe_certo.gif" alt="Projeto 1 GIF 2" width="390"/>
 </p>
 
 ---
-
-### [🐍 EVoSnake](https://github.com/AugustoSRodrigues/EvoSnake)  
-EvoSnake é um agente autônomo para o jogo da cobrinha (Snake) que utiliza Sistemas Classificadores - uma abordagem de aprendizado que combina regras de decisão do tipo "SE-ENTÃO" com algoritmos genéticos. O agente evolui através de gerações, onde regras competem entre si, são recompensadas ou punidas baseadas em seu desempenho, e se reproduzem para criar comportamentos cada vez mais eficientes no jogo
-
-<p align="center">
-<img src="midia\snake.gif" alt="EvoSnake Gameplay" width="290"/>
-</p>
-
-
-
-
----
-
 
 
 ## 📚 Cursos e Formações <a name="cursos"></a>
