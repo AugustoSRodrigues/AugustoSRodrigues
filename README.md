@@ -70,7 +70,7 @@ O projeto realiza a detecção automática do uso correto de Equipamentos de Pro
 
 <p align="center">
   <img src="midia/ppe/ppe_violacao_light.gif" alt="Projeto 1 GIF 1" width="390" />
-  <img src="midia/ppe/ppe_certo.gif" alt="Projeto 1 GIF 2" width="390"/>
+  <img src="midia/ppe/ppe_certo_light.gif" alt="Projeto 1 GIF 2" width="390"/>
 </p>
 
 ---
