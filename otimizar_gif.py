@@ -1,7 +1,7 @@
 from PIL import Image, ImageSequence
 import os
 
-def otimizar_gif(input_path, output_path, max_width=320, max_colors=64):
+def otimizar_gif(input_path, output_path, max_width=1240, max_colors=256):
     # Abre o GIF
     with Image.open(input_path) as im:
         frames = []
