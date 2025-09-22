@@ -14,10 +14,18 @@
 </p>
 
 ---
-[Ir para Cursos](#cursos)
----
 
-## 🚀 Sobre mim 
+
+<p align="center">
+  <a href="#mim">🙋 Sobre mim</a> •
+  <a href="#tecno">🛠️ Tecnologias</a> •
+  <a href="#projetos">📂 Projetos</a> •
+  <a href="#cursos">📚 Cursos</a> •
+  <a href="#idiomas">🌐 Idiomas</a>
+</p>
+
+
+## 🙋 Sobre mim <a name="mim"></a>
 
 Meu nome é Augusto Sacramento Rodrigues e sou formado em Ciência da Computação pela Unicamp, onde tive a oportunidade de explorar diferentes áreas da computação, com foco especial em Inteligência Artificial, Visão Computacional, Machine Learning e Ciência de Dados. Durante a graduação, aprofundei meus conhecimentos em algoritmos, análise de dados, redes neurais, processamento de imagens e aprendizado estatístico, complementando a formação com cursos extracurriculares voltados à prática e aplicações reais.
 
@@ -28,7 +36,7 @@ Sou movido por desafios, aprendizado contínuo e colaboração em equipe. Busco 
 
 ---
 
-## 🛠️ Tecnologias | Technologies
+## 🛠️ Tecnologias<a name="tecno"></a>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
@@ -45,7 +53,7 @@ Sou movido por desafios, aprendizado contínuo e colaboração em equipe. Busco 
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos<a name="projetos"></a>
 
 > Aqui estão alguns dos projetos que desenvolvi. Clique no nome para acessar o repositório completo.
 
@@ -77,6 +85,10 @@ O projeto realiza a detecção automática do uso correto de Equipamentos de Pro
 
 
 ## 📚 Cursos e Formações <a name="cursos"></a>
+
+- **Ciência da Computação - Universidade Estadual de Campinas** (2018-2024)
+
+- **Técnico em Informática Integrado ao Ensino Médio - IFSP** (2013-2017)
 
 - **Aprendizado de Máquina** (2021 - 60h)  
   Técnicas de aprendizado de máquina estatístico para classificação, agrupamento e detecção de outliers.  
