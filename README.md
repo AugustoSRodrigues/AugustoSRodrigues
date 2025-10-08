@@ -65,7 +65,7 @@ Sou movido por desafios, aprendizado contínuo e colaboração em equipe. Busco 
 EvoSnake é um agente autônomo para o jogo da cobrinha (Snake) que utiliza Sistemas Classificadores - uma abordagem de aprendizado que combina regras de decisão    tipo "SE-ENTÃO" com algoritmos genéticos. O agente evolui através de gerações, onde regras competem entre si, são recompensadas ou punidas baseadas em seu desempenho, e se reproduzem para criar comportamentos cada vez mais eficientes no jogo
 
 <p align="center">
-<img src="midia/evosnake/snake.gif" alt="EvoSnake Gameplay" width="290"/>
+<img src="midia/evosnake/snake.gif" alt="EvoSnake Gameplay" width="490"/>
 </p>
 
 
@@ -77,12 +77,28 @@ EvoSnake é um agente autônomo para o jogo da cobrinha (Snake) que utiliza Sist
 O projeto realiza a detecção automática do uso correto de Equipamentos de Proteção Individual (EPI) em imagens e vídeos, utilizando modelos de deep learning. Ele identifica itens como capacete, colete, óculos, luvas e botas em ambientes industriais ou de construção.
 
 <p align="center">
-  <img src="midia/ppe/ppe_violacao_light.gif" alt="Projeto 1 GIF 1" width="390" />
-  <img src="midia/ppe/ppe_certo_light.gif" alt="Projeto 1 GIF 2" width="390"/>
+  <img src="midia/ppe/ppe_violacao_light.gif" alt="EPI Violação" width="390" />
+  <img src="midia/ppe/ppe_certo_light.gif" alt="EPI Certo" width="390"/>
 </p>
 
 ---
+### [🛡️ Heimdall](https://zionsvision.com/heimdall/)
 
+ Durante meu estágio, melhorei o módulo de IA de um sistema de vigilância que apresentava muitos falsos positivos e negativos. Analisei o modelo existente, coletei novos dados, realizei fine-tuning e ajuste de hiperparâmetros. O resultado foi um modelo mais generalista, com maior acurácia e desempenho em diversos cenários.
+
+ <p align="center">
+<img src="midia/zions/people_light.gif" alt="Heimdall" width="650"/>
+</p>
+
+---
+### [✨ Magic](https://github.com/AugustoSRodrigues/Data_Analysis_MTG)
+Magic é um projeto de análise de dados sobre cartas de Magic: The Gathering, realizado a partir de um banco com diversas irregularidades. O trabalho envolveu estudo da história e design do jogo para orientar a limpeza, tratamento de inconsistências, normalização dos dados e exploração analítica em Jupyter utilizando Python e Pandas. O resultado foi um notebook analítico detalhado sobre o universo do jogo.
+
+<p align="center">
+<img src="midia/mtg/135069.gif" alt="MTG" width="650"/>
+</p>
+
+---
 
 ## 📚 Cursos e Formações <a name="cursos"></a>
 
